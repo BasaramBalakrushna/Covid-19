@@ -2,6 +2,8 @@
 COVID-19 Patient Classification Using Machine Learning
 -------------------------------------------------------
 This project applies machine learning techniques to classify patients as COVID-positive or COVID-negative based on clinical data. The classification is based on the CLASIFFICATION_FINAL column, which originally contains values from 1 to 7. We engineer this target feature into a binary classification problem to support effective predictive modeling.
+
+
 **Project Workflow:**
 
 1. Library Imports
